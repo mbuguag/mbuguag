@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mbuguag
 - 👀 I’m interested in ...tech related fields like IT
-- 🌱 I’m currently learning ...basic html & css
+- 🌱 A  ALX Student in software engineering
 - 💞️ I’m looking to collaborate on ...writing web pages and writing higher machine languages
 - 📫 How to reach me ...mbuguajoseph498@gmail.com
 
