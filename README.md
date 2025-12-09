@@ -1,16 +1,17 @@
--  Hi, I’m Mbugua Gitau
-- A Computer Science graduate & current Software Engineering Graduate Trainee, passionate about building impactful, secure, and scalable software systems.
--  Currently working in the **FinTech** space, where I contribute to real-time financial systems.
+# Hi, I'm Joseph Mbugua
+**Software Engineer | Java · Spring Boot · Python · Angular . Odoo**
 
- I'm also deeply interested in **cybersecurity**, aiming to build systems that are not just functional—but safe and resilient.
+I build reliable, scalable systems with a focus on clean architecture, real-time features, secure APIs, and smooth user experiences.
 
-**What I'm exploring:**  
-- Advanced microservices design patterns  
-- RESTful API best practices  
-- Angular for frontend development  
-- Containerization & DevOps workflows with Docker  
+---
 
- **Mission:** Keep learning. Keep building. Keep securing.
+### Tech Stack
+**Backend:** Java, Spring Boot, PostgreSQL, JWT, WebSockets  
+**Frontend & Mobile:** Angular, Flutter  
+**Other:** Git, CI/CD, API design, modular architecture
 
- 
--  How to reach me ...mbuguajoseph498@gmail.com
+---
+
+###  Contact
+**Email:** mbuguajoseph498@gmail.com
+Let’s connect and build something meaningful.
