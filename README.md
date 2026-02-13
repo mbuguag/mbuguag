@@ -7,8 +7,8 @@ I build reliable, scalable systems with a focus on clean architecture, real-time
 
 ### Tech Stack
 **Backend:** Java, Spring Boot, PostgreSQL, JWT, WebSockets  
-**Frontend & Mobile:** Angular, Flutter  
-**Other:** Git, CI/CD, API design, modular architecture
+**Frontend & Mobile:** HTML5, CSS, Javascript , React, Angular
+**Other:** Git, CI/CD(Guthub Actions), API design, modular architecture
 
 ---
 
